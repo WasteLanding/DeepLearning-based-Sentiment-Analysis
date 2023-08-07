@@ -14,3 +14,11 @@ What things you need to install the software and how to install them
 ```
 Give examples
 ```
+
+### Installing
+
+Steps to get your development env running
+
+```
+Give examples
+```
