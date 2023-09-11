@@ -22,3 +22,13 @@ Steps to get your development env running
 ```
 Give examples
 ```
+
+## Running Tests
+
+Explain how to run the automated tests for this system
+
+```
+Give examples
+```
+
+## Deployment
