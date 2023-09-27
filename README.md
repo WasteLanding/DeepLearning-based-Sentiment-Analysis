@@ -38,3 +38,13 @@ Notes about how to deploy this on a live system
 ## Author
 
 * **WasteLanding**
+
+## License
+
+This project is licensed under the XYZ License - see the [LICENSE.md](LICENSE.md) file for details
+
+## Acknowledgments
+
+* Hat tip to anyone who's code was used
+* Inspiration
+* etc
