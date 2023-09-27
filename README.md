@@ -32,3 +32,9 @@ Give examples
 ```
 
 ## Deployment
+
+Notes about how to deploy this on a live system
+
+## Author
+
+* **WasteLanding**
